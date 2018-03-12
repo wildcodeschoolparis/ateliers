@@ -4,34 +4,21 @@
 Déclarer un objet `wilder` qui contient 4 propriétés:
   prénom, nom, age et si vous avez déjà codé
 
-Les clés doivent etre des identifiants valides
+> Les clés doivent être des identifiants valides
 
 ### showWilder
-Créér une fonction nommée `showWilder` qui prend en paramètre un sauvageon
-
-Elle affiche dans la console son prénom en minuscule NOM en majuscule et age
-séparés par des espaces
+Créér une fonction `showWilder` qui prend en paramètre un sauvageon et affiche dans la console son prénom (en minuscule), son nom (en majuscule) et age séparés par des espaces
 
 ## wilderList
-Ensuite créér un array qui contient votre variable wilder et celle d'au moins
-deux autres sauvageons.
+Créér un array `wilderList` qui contient votre variable wilder et celle d'au moins deux autres sauvageons
 
 ### showAllWilders
-Créér une fonction nommée `showAllWilders` qui prend en paramètre une liste
-de sauvageons.
+Créér une fonction `showAllWilders` qui prend en paramètre une liste de sauvageons et appelle la fonction `showWilder` pour chaque sauvageons de la liste
 
-Appeller la fonction `showWilder` pour chaque sauvageons de la liste
-
-### wildersAvgAge
-Créé une fonction nommé `wildersAvgAge` qui prend en paramètre une liste
-de sauvageons.
-
-Elle calcule la moyenne d'age des sauvageons et la retourne
+### wildersAverageAge
+Créér une fonction `wildersAverageAge` qui prend en paramètre une liste de sauvageons et retourne la moyenne d'age des sauvageons
 
 ### over30
-Créér une fonction `over30` qui prend en paramètre une liste de sauvageons
-
-Elle retourne une nouvelle liste qui ne contient que les sauvageons qui on plus
-de 30 ans
+Créér une fonction `over30` qui prend en paramètre une liste de sauvageons et retourne une nouvelle liste qui ne contient que les sauvageons qui on plus de 30 ans
 
 
