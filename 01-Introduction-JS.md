@@ -1,37 +1,37 @@
 # Atelier Introduction JavaScript
 
 ## wilder
-Déclarer un objet `wilder` qui contient 4 propriété:
-  votre prénom, nom, age et si vous avez déjà codé
+Déclarer un objet `wilder` qui contient 4 propriétés:
+  prénom, nom, age et si vous avez déjà codé
 
-Les clé doivent etre des identifiants valide 
+Les clés doivent etre des identifiants valides
 
 ### showWilder
-Créé une fonction nommé `showWilder` qui prend en parametre un sauvageon
+Créér une fonction nommée `showWilder` qui prend en paramètre un sauvageon
 
 Elle affiche dans la console son prénom en minuscule NOM en majuscule et age
-séparé par des espaces.
+séparés par des espaces
 
 ## wilderList
-Ensuite créé un array qui contien votre variable wilder et celle d'au moins
+Ensuite créér un array qui contient votre variable wilder et celle d'au moins
 deux autres sauvageons.
 
 ### showAllWilders
-Créé une fonction nommé `showAllWilders` qui prend en parametre une liste
+Créér une fonction nommée `showAllWilders` qui prend en paramètre une liste
 de sauvageons.
 
-Appelle la fonction `showWilder` pour chaques sauvageons de la liste
+Appeller la fonction `showWilder` pour chaque sauvageons de la liste
 
 ### wildersAvgAge
-Créé une fonction nommé `wildersAvgAge` qui prend en parametre une liste
+Créé une fonction nommé `wildersAvgAge` qui prend en paramètre une liste
 de sauvageons.
 
-Elle calcule la moyen d'age des sauvageons et la retourne.
+Elle calcule la moyenne d'age des sauvageons et la retourne
 
 ### over30
-Créé une fonction `over30` qui prend en parametre une liste de sauvageons.
+Créér une fonction `over30` qui prend en paramètre une liste de sauvageons
 
-Elle retourne une nouvelle liste qui contient que les sauvageons qui on plus
-de 30 ans.
+Elle retourne une nouvelle liste qui ne contient que les sauvageons qui on plus
+de 30 ans
 
 
